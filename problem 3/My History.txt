@@ -1,0 +1,58 @@
+    1  source bashrc
+    2  cat /etc/*release
+    3  cat /etc/*release | head
+    4  cat /etc/*release | head -1
+    5  cat /etc/*release | head -2
+    6  vi bashrc
+    7  source bashrc
+    8  source ~/assignments/trgn_assignment1/problem2/bashrc
+    9  vi bashrc
+   10  source bashrc
+   11  vi bashrc
+   12  source bashrc
+   13  cp ~/assignments/trgn_assignment1/problem2/bashrc ~/.bashrc
+   14  cp /home/data/vimrc ~/assignments/trgn_assignment1/problem2/
+   15  ls -l
+   16  vim vimrc
+   17  cp vimrc ~/.vimrc
+   18  vi .vimrc
+   19  ls
+   20  ls -l
+   21  cd ~
+   22  ls -l
+   23  ls
+   24  cd assignments
+   25  ls
+   26  cd trgn_assignment1 
+   27  ls
+   28  cd problem2
+   29  cd ..
+   30  ls
+   31  mkdir problem\3
+   32  ls
+   33  rmdir problem3
+   34  ls
+   35  mkdir "problem \3"
+   36  ls
+   37  rmdir "problem \3"
+   38  ls
+   39  mkdir problem\3
+   40  ls
+   41  rmdir problem3
+   42  ls
+   43  mkdir "problem 3"
+   44  ls
+   45  ls -l
+   46  ls
+   47  cd "problem 3"
+   48  cd ~
+   49  pwd
+   50  exit
+   51  ls
+   52  cd assignments
+   53  ls
+   54  cd trgn_assignment1
+   55  ls
+   56  ls -l
+   57  cd "problem 3"
+   58  history > My\ History.txt
